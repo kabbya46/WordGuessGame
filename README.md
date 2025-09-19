@@ -17,3 +17,13 @@ The game features multiple rounds, scoring, hints, and ASCII Hangman visuals for
 cd src
 javac *.java
 java Main
+All Rights Reserved
+
+Copyright (c) 2025 Kabbya Chatterjee (GitHub: kabbya46)
+
+Unauthorized copying, modification, or distribution of this code, via any medium, is strictly prohibited.
+All rights reserved.
+This project is private and copyrighted.  
+Unauthorized copying, modification, or distribution of this code, via any medium, is strictly prohibited.
+
+© 2025 Kabbya Chatterjee ([@kabbya46](https://github.com/kabbya46)). All rights reserved.
